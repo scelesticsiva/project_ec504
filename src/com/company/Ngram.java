@@ -56,10 +56,5 @@ class Ngram {
                 prevWord.put(tokens[1], pairArrayList);
             }
         }
-        System.out.println(lineArrayList);
-        System.out.println();
-        System.out.println(prevWord);
-        System.out.println();
-        System.out.println(prevWordCount);
     }
 }
